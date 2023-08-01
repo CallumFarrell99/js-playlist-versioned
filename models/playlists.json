@@ -1,0 +1,13 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "tom",
+      "_id": "fba0ae44-3526-4769-a4c4-b40ee85b9bac"
+    },
+    {
+      "title": "testing",
+      "_id": "c354d7b9-59bd-40b7-a0eb-3d1863b6be96"
+    }
+  ]
+}
