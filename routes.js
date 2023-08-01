@@ -10,3 +10,4 @@ router.get("/dashboard", dashboardController.index);
 router.post("/dashboard/addplaylist", dashboardController.addPlaylist);
 router.get("/about", aboutController.index);
 router.get("/playlist/:id", playlistController.index);
+router.post("/playlist/:id/addtrack", playlistController.addTrack);
