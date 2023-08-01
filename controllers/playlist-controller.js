@@ -7,6 +7,7 @@ export const playlistController = {
             title: "Playlist",
             playlist: playlist,
         };
+        console.log(`rendering playlist: ${playlist.title}`)
         response.render("playlist-view", viewData);
     },
 };
