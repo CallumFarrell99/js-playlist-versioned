@@ -1,1 +1,1 @@
-# Playlist 0.3.0
+# Playlist 0.5.0
