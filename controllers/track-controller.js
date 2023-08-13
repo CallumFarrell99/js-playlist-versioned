@@ -14,7 +14,7 @@ export const trackController = {
         response.render("track-view", viewData);
     },
 
-    async update(request, reponse) {
+    async update(request, response) {
         const playlistId = request.params.playlistid;
         const trackId = request.params.trackid;
         const updatedTrack = {
