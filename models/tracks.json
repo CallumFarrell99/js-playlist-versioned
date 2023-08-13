@@ -14,6 +14,48 @@
       "duration": 4,
       "_id": "75def112-5fdc-4ff3-b36a-e64aa9b8a17e",
       "playlistid": "fba0ae44-3526-4769-a4c4-b40ee85b9bac"
+    },
+    {
+      "title": "Burn them Bridges",
+      "artist": "Caribou",
+      "duration": 4,
+      "_id": "a3bba682-5ef5-40d0-8318-34632fbe933d",
+      "playlistid": "12967dba-78ea-4e2c-8182-560b18621ad9"
+    },
+    {
+      "title": "You Can Do It",
+      "artist": "Caribou",
+      "duration": 6,
+      "_id": "cbac9ebb-e58f-4755-8434-e20c44946c41",
+      "playlistid": "12967dba-78ea-4e2c-8182-560b18621ad9"
+    },
+    {
+      "title": "Lets Go",
+      "artist": "Jamie XX",
+      "duration": 8,
+      "_id": "172e403a-3a4b-4dd3-b773-d9824d855f90",
+      "playlistid": "27df71b0-58e1-4397-af57-4ef6874bfeeb"
+    },
+    {
+      "title": "Here Comes the Sun",
+      "artist": "Jamie XX",
+      "duration": 3,
+      "_id": "e0baba5d-ae39-4334-96cb-3f2ca26e6953",
+      "playlistid": "27df71b0-58e1-4397-af57-4ef6874bfeeb"
+    },
+    {
+      "title": "",
+      "artist": "",
+      "duration": 0,
+      "_id": "1878613e-1597-48b0-ab7e-a3b27c23b9ab",
+      "playlistid": "27df71b0-58e1-4397-af57-4ef6874bfeeb"
+    },
+    {
+      "title": "Adaggio for Strings on Sax",
+      "artist": "Me",
+      "duration": 15,
+      "_id": "f8c6882d-9386-49e0-9469-1423cda81a4e",
+      "playlistid": "11cba3aa-1297-4689-9ace-0155733e6d20"
     }
   ]
 }

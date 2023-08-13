@@ -14,6 +14,13 @@
       "email": "marge@simpson.ie",
       "password": "marge",
       "_id": "8f1926cf-85a1-485a-8985-4d913c66cbfd"
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Simpson",
+      "email": "lisa@simpson.ie",
+      "password": "lisa",
+      "_id": "fbec6cfc-9d10-487c-bae6-5bdaa7ae83ee"
     }
   ]
 }
