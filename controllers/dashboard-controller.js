@@ -7,7 +7,7 @@ export const dashboardController = {
     const loggedInUser = await accountsController.getLoggedInUser(request);
     const viewData = {
       title: "Playlist Dashboard",
-      playlists: await playlistStore.getPlaylistsByUserId(loggedInUser._id),
+      playlists: await playlistStore.getPlaylistByUserId(loggedInUser._id),
     };
     console.log("dashboard rendering");
     response.render("dashboard-view", viewData);
