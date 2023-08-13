@@ -4,7 +4,7 @@ import { playlistStore } from "../models/playlist-store.js";
 
 export const dashboardController = {
   async index(request, response) {
-    const loggedInUser = await accountsController.Controller.getLoggedInUser(request);
+    const loggedInUser = await accountsController.getLoggedInUser(request);
     const viewData = {
       title: "Playlist Dashboard",
       playlists: await playlistStore.getPlaylistsByUserId(loggedInUser._id),
